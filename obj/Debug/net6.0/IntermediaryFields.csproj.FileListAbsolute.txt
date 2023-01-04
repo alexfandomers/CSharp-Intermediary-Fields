@@ -1,0 +1,15 @@
+C:\C#\IntermediaryFields\bin\Debug\net6.0\IntermediaryFields.exe
+C:\C#\IntermediaryFields\bin\Debug\net6.0\IntermediaryFields.deps.json
+C:\C#\IntermediaryFields\bin\Debug\net6.0\IntermediaryFields.runtimeconfig.json
+C:\C#\IntermediaryFields\bin\Debug\net6.0\IntermediaryFields.dll
+C:\C#\IntermediaryFields\bin\Debug\net6.0\IntermediaryFields.pdb
+C:\C#\IntermediaryFields\obj\Debug\net6.0\IntermediaryFields.csproj.AssemblyReference.cache
+C:\C#\IntermediaryFields\obj\Debug\net6.0\IntermediaryFields.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\IntermediaryFields\obj\Debug\net6.0\IntermediaryFields.AssemblyInfoInputs.cache
+C:\C#\IntermediaryFields\obj\Debug\net6.0\IntermediaryFields.AssemblyInfo.cs
+C:\C#\IntermediaryFields\obj\Debug\net6.0\IntermediaryFields.csproj.CoreCompileInputs.cache
+C:\C#\IntermediaryFields\obj\Debug\net6.0\IntermediaryFields.dll
+C:\C#\IntermediaryFields\obj\Debug\net6.0\refint\IntermediaryFields.dll
+C:\C#\IntermediaryFields\obj\Debug\net6.0\IntermediaryFields.pdb
+C:\C#\IntermediaryFields\obj\Debug\net6.0\IntermediaryFields.genruntimeconfig.cache
+C:\C#\IntermediaryFields\obj\Debug\net6.0\ref\IntermediaryFields.dll
